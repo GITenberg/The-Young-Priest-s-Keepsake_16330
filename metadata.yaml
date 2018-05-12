@@ -1,0 +1,24 @@
+_repo: The-Young-Priest-s-Keepsake_16330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phelan, Michael J.
+    gutenberg_agent_id: '6627'
+    url: http://www.gutenberg.org/2009/agents/6627
+description: ''
+gutenberg_issued: '2005-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Clergy -- Religious life'
+title: The Young Priest's Keepsake
+url: http://www.gutenberg.org/ebooks/16330
